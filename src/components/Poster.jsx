@@ -6,10 +6,8 @@ export default function Poster() {
       <div style={{ backgroundImage: `url(${poster})` }}>
         <h1>EXAMS TIME</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur,earum ad laborum ab impedit
-          ipsa perspiciatis nemo quam adipisci ex est ipsam. <br />
-          learum ad laborum ab impedit ipsa perspiciatis nemo quam adipisci ex
-          est ipsam.
+          Imagination is more important than knowledge. Knowledge is limited.
+          Imagination encircles the world.
         </p>
         <span>Nothing happens untill somehing moves ~ Albert Einsten</span>
         <button>View exams tips</button>
